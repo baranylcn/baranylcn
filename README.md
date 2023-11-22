@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Prediction Models**
 
-- 👨‍💻 All of my projects are available at [https://baranylcn.github.io/portfolio.github.io/](https://baranylcn.github.io/portfolio.github.io/)
+- 👨‍💻 Most of my projects are available at [https://baranylcn.github.io/portfolio.github.io/](https://baranylcn.github.io/portfolio.github.io/)
 
 - 💬 Ask me about **Analysis, ML Models**
 
