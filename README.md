@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Baran</h1>
+<h1 align="center">Hi 👋 I'm Baran</h1>
 <h3 align="center">An individual involved in Mathematics and Data Science.</h3>
 
 - 🔭 I’m currently working on **Prediction Models**
