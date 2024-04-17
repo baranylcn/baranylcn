@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in mathematics, data science and artificial intelligence.
 
-- 👨‍💻 Most of my projects are available at [https:/baranyalcin.net](https:/baranyalcin.net)
+- 👨‍💻 Most of my projects are available at [baranyalcin.net](baranyalcin.net)
 
 - 💬 Ask me about **Analysis, Machine Learning**
 
