@@ -3,23 +3,9 @@
   <em>Curious mind in Data Science & Artificial Intelligence</em>
 </p>
 
----
-
 🚀 Passionate about building meaningful things with data  
 🧠 Interested in AI, ML, statistics, and human-centered problem solving  
 📚 Lifelong learner with a mathematical backbone
-
----
-
-<h3 align="center">Connect with me</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/baranylcn/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://medium.com/@baranylcn" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-</p>
 
 ---
 
@@ -39,6 +25,18 @@
   <img src="https://img.shields.io/badge/Transformers-HuggingFace-yellow?style=flat" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/FAISS-005571?style=flat" />
+</p>
+
+---
+
+<h3 align="center">Connect with me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/baranylcn/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://medium.com/@baranylcn" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
 </p>
 
 ---
