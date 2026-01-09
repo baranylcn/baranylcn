@@ -1,11 +1,7 @@
 <h1 align="center">Hey 👋</h1>
 <p align="center">
-  <em>Curious mind in Data Science & Artificial Intelligence</em>
+  <em>Data Science & AI with a curious, practical mindset</em>
 </p>
-
-🚀 Passionate about building meaningful things with data  
-🧠 Interested in AI, ML, statistics, and human-centered problem solving  
-📚 Lifelong learner with a mathematical backbone
 
 ---
 
@@ -29,7 +25,17 @@
 
 ---
 
-<h3 align="center">Connect with me</h3>
+<p align="center">
+  <em>
+    Building useful things with data.<br>
+    Thinking in systems, numbers, and people.<br>
+    Always learning, always shipping.
+  </em>
+</p>
+
+---
+
+<h3 align="center">Connect</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/baranylcn/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -37,10 +43,4 @@
   <a href="https://medium.com/@baranylcn" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <em>"Simple is powerful. Clean is elegant."</em>
 </p>
